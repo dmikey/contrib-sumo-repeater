@@ -1,0 +1,6 @@
+[submodule "src/sumoji"]
+	path = src/sumoji
+	url = https://github.com/dmikey/sumoji.git
+[submodule "src/ichimon"]
+	path = src/ichimon
+	url = https://github.com/dmikey/ichimon.git
